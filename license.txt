@@ -1,0 +1,11 @@
+Model Information:
+* title:	TV Table (Low Poly)
+* source:	https://sketchfab.com/3d-models/tv-table-low-poly-6525a87d4bb3419d827cba83abfbcf87
+* author:	VX-Designs (https://sketchfab.com/vxdesigns)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TV Table (Low Poly)" (https://sketchfab.com/3d-models/tv-table-low-poly-6525a87d4bb3419d827cba83abfbcf87) by VX-Designs (https://sketchfab.com/vxdesigns) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
